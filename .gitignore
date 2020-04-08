@@ -1,0 +1,4 @@
+# Ignore existing configs
+config.json
+*.zip
+*.7z
